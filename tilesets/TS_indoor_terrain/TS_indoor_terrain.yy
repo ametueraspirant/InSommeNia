@@ -2,7 +2,7 @@
     "id": "64924d5e-5f86-4eba-80f7-8d1fcb639313",
     "modelName": "GMTileSet",
     "mvc": "1.11",
-    "name": "TSIndoorTerrain",
+    "name": "TS_indoor_terrain",
     "auto_tile_sets": [
         
     ],

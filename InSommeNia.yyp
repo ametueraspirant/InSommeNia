@@ -98,7 +98,7 @@
             "Key": "2e0f7555-7a99-4143-8e86-735caeb1a15d",
             "Value": {
                 "id": "72b072c8-be74-4a09-9a2b-dae56b30389c",
-                "resourcePath": "sprites\\SprIndoorTerrain\\SprIndoorTerrain.yy",
+                "resourcePath": "sprites\\spr_indoor_terrain\\spr_indoor_terrain.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -170,7 +170,7 @@
             "Key": "64924d5e-5f86-4eba-80f7-8d1fcb639313",
             "Value": {
                 "id": "659f5b9c-b4ac-4f2c-9dc3-f7244c118e3d",
-                "resourcePath": "tilesets\\TSIndoorTerrain\\TSIndoorTerrain.yy",
+                "resourcePath": "tilesets\\TS_indoor_terrain\\TS_indoor_terrain.yy",
                 "resourceType": "GMTileSet"
             }
         },
@@ -194,7 +194,7 @@
             "Key": "6b93e970-080d-45b9-935f-2791ca82003d",
             "Value": {
                 "id": "7cd0092f-5eb8-4831-a418-ff3925c5fe7e",
-                "resourcePath": "objects\\ObjPlayer\\ObjPlayer.yy",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -242,7 +242,7 @@
             "Key": "7aa6bbef-ce97-439f-afc5-c8c6f5db0f77",
             "Value": {
                 "id": "5180d4d7-794b-4b1d-9feb-dd23b60e30ab",
-                "resourcePath": "tilesets\\TSCityTerrain\\TSCityTerrain.yy",
+                "resourcePath": "tilesets\\TS_city_terrain\\TS_city_terrain.yy",
                 "resourceType": "GMTileSet"
             }
         },
@@ -258,7 +258,7 @@
             "Key": "7ebd8aa7-c377-4647-aba4-fb80517b3f09",
             "Value": {
                 "id": "cee9a120-143e-4080-9a35-d96c8ad342ae",
-                "resourcePath": "sprites\\SprGeneralTerrain\\SprGeneralTerrain.yy",
+                "resourcePath": "sprites\\spr_gen_terrain\\spr_gen_terrain.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -300,6 +300,14 @@
                 "id": "8267eda1-833f-4c58-8a13-51c9ae03d8f8",
                 "resourcePath": "views\\9ec38671-2ef3-455c-a11e-5133c1ec7c09.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9fafb347-66d4-45e8-9c6d-ef7e1b801427",
+            "Value": {
+                "id": "a699bb6e-6c4e-416a-bb05-59873556ce05",
+                "resourcePath": "objects\\obj_game_camera\\obj_game_camera.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -394,7 +402,7 @@
             "Key": "d4f44326-f867-44c0-b0cf-ee136506f39b",
             "Value": {
                 "id": "e1e17533-f5ac-4672-8a34-5025fe267f08",
-                "resourcePath": "objects\\GameController\\GameController.yy",
+                "resourcePath": "objects\\obj_game_controller\\obj_game_controller.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -402,7 +410,7 @@
             "Key": "d71f8557-5506-4e85-b95c-dcac038e0bad",
             "Value": {
                 "id": "1bf0ca02-3462-453f-917e-0648e9340f1e",
-                "resourcePath": "tilesets\\TSGeneralTerrain\\TSGeneralTerrain.yy",
+                "resourcePath": "tilesets\\TS_gen_terrain\\TS_gen_terrain.yy",
                 "resourceType": "GMTileSet"
             }
         },
@@ -474,7 +482,7 @@
             "Key": "f78a1b0d-2fb3-45aa-9aba-172b07594c4a",
             "Value": {
                 "id": "43eed1f1-4a35-49c4-994c-41152fa626a4",
-                "resourcePath": "sprites\\SprCityTerrain\\SprCityTerrain.yy",
+                "resourcePath": "sprites\\spr_city_terrain\\spr_city_terrain.yy",
                 "resourceType": "GMSprite"
             }
         }

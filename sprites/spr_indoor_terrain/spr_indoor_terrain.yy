@@ -2,7 +2,7 @@
     "id": "2e0f7555-7a99-4143-8e86-735caeb1a15d",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "SprIndoorTerrain",
+    "name": "spr_indoor_terrain",
     "For3D": false,
     "HTile": false,
     "VTile": false,

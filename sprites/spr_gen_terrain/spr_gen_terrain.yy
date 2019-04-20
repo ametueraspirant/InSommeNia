@@ -2,7 +2,7 @@
     "id": "7ebd8aa7-c377-4647-aba4-fb80517b3f09",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "SprGeneralTerrain",
+    "name": "spr_gen_terrain",
     "For3D": false,
     "HTile": false,
     "VTile": false,
