@@ -5,8 +5,8 @@ up_check = keyboard_check(move_up);
 left_check = keyboard_check(move_left);
 right_check = keyboard_check(move_right);
 down_check = keyboard_check(move_down);
-attack_check = keyboard_check(do_attack);
-attack_check_tap = keyboard_check_pressed(do_attack);
+attack_check = mouse_check_button(do_attack);
+attack_check_tap = mouse_check_button_pressed(do_attack);
 menu_check = keyboard_check(do_menu);
 debug_check = keyboard_check(do_debug);
 #endregion
@@ -36,7 +36,20 @@ if(input_h != 0 or input_v != 0){
 #endregion
 
 #region //attack with pillow
-if(
+if(pillow_reload > 0)pillow_reload--;
+if(attack_check and pillow_reload <= 0 and attack_buffer >= 0 and pillow_count > 0){
+	pillow_windup--;
+	if(pillow_windup <= 0){
+		pillow_reload = pillow_reload_reset;
+		pillow_windup = pillow_windup_reset;
+		pillow_count--;
+		with(instance_create_layer(x, y, global.mainLayer, obj_pillow)){
+			speed = 20;
+			direction = point_direction(other.x, other.y, mouse_x, mouse_y) + random_range(-8, 8);
+			image_angle = direction;
+		}
+	}
+}
 #endregion
 
 //extra buttons

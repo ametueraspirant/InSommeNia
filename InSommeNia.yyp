@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "1ec154f7-4fba-474f-814b-6a4b4fe06d89",
+            "Value": {
+                "id": "4d332d09-5fef-4349-bf16-48b38af545d1",
+                "resourcePath": "sprites\\spr_oculo_hurt\\spr_oculo_hurt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "22e3e40d-cc6c-42e4-a039-777f997a2388",
             "Value": {
                 "id": "1e912ddb-ff88-4651-a17a-994d4b08ee51",
@@ -135,10 +143,26 @@
             }
         },
         {
+            "Key": "3b9f40f1-20f2-44e9-b867-189f4b9e00aa",
+            "Value": {
+                "id": "ecc98a9b-1da2-446e-bd11-e387e3e024a5",
+                "resourcePath": "objects\\obj_pillow\\obj_pillow.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3ceb1dd0-75ae-4b1e-a143-5b2946fcd940",
             "Value": {
                 "id": "4d4ff950-5a2d-4f17-9cf7-76ccb39f6e3a",
                 "resourcePath": "sprites\\spr_player_attack_side\\spr_player_attack_side.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3d4c2986-4393-453f-8997-28ef69a0f836",
+            "Value": {
+                "id": "cc25ea6c-65e8-4eda-8cbe-37cb82b99e6e",
+                "resourcePath": "sprites\\spr_werewolf_move\\spr_werewolf_move.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -156,6 +180,22 @@
                 "id": "59b32a63-b345-418a-9cd5-0c8792fe5a8b",
                 "resourcePath": "sprites\\spr_player_idle_back\\spr_player_idle_back.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "49b4a869-9773-4cfa-9ded-edb65b62d7fc",
+            "Value": {
+                "id": "550bc134-daef-4932-a615-28e5c0f7a9b3",
+                "resourcePath": "sprites\\spr_shade_idle\\spr_shade_idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "50f220ea-11e9-4d08-9617-e85d5ff95a2a",
+            "Value": {
+                "id": "bbb8c4d1-f7c6-4bf6-9867-d6c353e56df0",
+                "resourcePath": "objects\\obj_enemy_shade\\obj_enemy_shade.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -199,11 +239,35 @@
             }
         },
         {
+            "Key": "6a78df8e-f4a2-456c-9ffe-555a1e4a1d0b",
+            "Value": {
+                "id": "0b6ad0fa-4472-473c-a453-5b3d1a811d71",
+                "resourcePath": "sprites\\spr_werewolf_idle\\spr_werewolf_idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6ac5630d-aac9-4606-b226-16c6acff3f0c",
+            "Value": {
+                "id": "fa7ab87f-7cde-4551-93eb-b7827bab353f",
+                "resourcePath": "sprites\\spr_shade_die\\spr_shade_die.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6b93e970-080d-45b9-935f-2791ca82003d",
             "Value": {
                 "id": "7cd0092f-5eb8-4831-a418-ff3925c5fe7e",
                 "resourcePath": "objects\\obj_player\\obj_player.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6cec4aec-4b83-4fe6-8d76-08c40056e2a8",
+            "Value": {
+                "id": "652c8915-b393-48df-9602-6b1bd6bc6b16",
+                "resourcePath": "sprites\\spr_oculo_move\\spr_oculo_move.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -271,6 +335,14 @@
             }
         },
         {
+            "Key": "85b27aca-d88e-40ae-ac9b-a86bb592c5dc",
+            "Value": {
+                "id": "775b1082-4fdd-4019-9379-026863c98d64",
+                "resourcePath": "views\\85b27aca-d88e-40ae-ac9b-a86bb592c5dc.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "863dc37c-7a44-4505-9ab3-659dc7403d3c",
             "Value": {
                 "id": "cb279a4c-de98-48fe-ad0c-9f58c9d16280",
@@ -287,6 +359,14 @@
             }
         },
         {
+            "Key": "881d818c-b860-443f-b7c7-0adf29363ac6",
+            "Value": {
+                "id": "25c56873-4a67-4ffc-bd72-7d78e45e8956",
+                "resourcePath": "sprites\\spr_oculo_attack\\spr_oculo_attack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8da2e490-db96-47cd-a826-18b5bd89e054",
             "Value": {
                 "id": "62a7e32c-a1b7-4c93-a056-283daff1b1d7",
@@ -300,6 +380,14 @@
                 "id": "2acd2044-1467-426f-b6d8-89741c246322",
                 "resourcePath": "views\\cf4c812f-238b-4858-8b3c-044c6c7bc2e6-room.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "999df82a-d2c3-4c09-9a0a-fb28383aade4",
+            "Value": {
+                "id": "8a005df7-b9d0-4bc0-b86d-b8bf780f7465",
+                "resourcePath": "sprites\\spr_oculo_idle\\spr_oculo_idle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -327,6 +415,30 @@
             }
         },
         {
+            "Key": "a1627bda-475f-4900-b0d9-aed28030e590",
+            "Value": {
+                "id": "dc145d5e-c871-41c4-9bf7-07c6960ba04d",
+                "resourcePath": "sprites\\spr_oculo_die\\spr_oculo_die.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a1c65cb4-a208-4032-90fd-908edf4adaca",
+            "Value": {
+                "id": "cc41d350-d34e-425c-8bff-10097cc8687c",
+                "resourcePath": "sprites\\spr_shade_move\\spr_shade_move.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a37287c1-3068-497f-adb7-ec58d2e9dcd2",
+            "Value": {
+                "id": "3a46a028-fbd6-4a23-81cb-c6c9f7eb2ea2",
+                "resourcePath": "views\\a37287c1-3068-497f-adb7-ec58d2e9dcd2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "a47047f5-e59a-45e6-939a-447a47a088bc",
             "Value": {
                 "id": "207417cb-8c9d-40f0-8353-a629d61f00d6",
@@ -351,6 +463,14 @@
             }
         },
         {
+            "Key": "acce5f6a-c26f-4e43-ba5a-7e995301792d",
+            "Value": {
+                "id": "aec31f46-b526-45e2-a1e5-105f32ed62e5",
+                "resourcePath": "views\\acce5f6a-c26f-4e43-ba5a-7e995301792d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "b000cdc3-1586-4f5b-bff0-acde118cab53",
             "Value": {
                 "id": "1b739750-e708-4db1-9f57-d3c0b779657d",
@@ -367,11 +487,27 @@
             }
         },
         {
+            "Key": "baed5ca5-49fc-440c-ac91-2a7143ec0da6",
+            "Value": {
+                "id": "6348e037-ce60-4a20-b6da-c6f933cdca8e",
+                "resourcePath": "objects\\obj_enemy_werewolf\\obj_enemy_werewolf.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bc47e068-1960-4e27-87eb-6346b56d876a",
             "Value": {
                 "id": "15fec2d5-4f32-443b-84fd-f4187bde148e",
                 "resourcePath": "objects\\obj_parent_collider\\obj_parent_collider.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bd534265-fd42-418f-9dd5-c8d5227f9dfc",
+            "Value": {
+                "id": "a28b71d0-2b92-4db7-bbef-bead1a5acc98",
+                "resourcePath": "sprites\\spr_shade_attack\\spr_shade_attack.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -383,11 +519,27 @@
             }
         },
         {
+            "Key": "c5caf7cb-beb3-4eda-b4dc-eba89204b17a",
+            "Value": {
+                "id": "d04145ed-a97b-4169-98cf-d6e41878f386",
+                "resourcePath": "sprites\\spr_werewolf_attack\\spr_werewolf_attack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c6dbd379-7d50-4664-88f9-fa2482f84d51",
             "Value": {
                 "id": "3ab7f2f8-f1e6-4473-b1e5-ccd4609880c3",
                 "resourcePath": "sprites\\spr_player_idle_front\\spr_player_idle_front.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c77bbc50-324f-4c7b-b4e3-d6fbda690a98",
+            "Value": {
+                "id": "2cce4633-50d5-44f8-8a29-017dcd418daf",
+                "resourcePath": "objects\\obj_enemy_shade_bullet\\obj_enemy_shade_bullet.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -431,6 +583,30 @@
             }
         },
         {
+            "Key": "d7780b67-8235-4cbd-a982-250bdf33f231",
+            "Value": {
+                "id": "543ee624-4364-4495-9d2c-5ce039a97829",
+                "resourcePath": "sprites\\spr_shade_hurt\\spr_shade_hurt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d82eee44-1433-4739-b3ce-46e4f5641dd1",
+            "Value": {
+                "id": "4028e0e4-f23c-4dfe-abaa-c32f7eb510d8",
+                "resourcePath": "sprites\\spr_werewolf_die\\spr_werewolf_die.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dd0e21eb-0e33-4d84-930e-7cdd085caa90",
+            "Value": {
+                "id": "fe6d8f16-2d21-4aed-8f65-8da1e730e4c0",
+                "resourcePath": "sprites\\spr_shade_bullet\\spr_shade_bullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "de8fe71b-2d64-4998-a336-44a982ceebef",
             "Value": {
                 "id": "370e452f-d32f-48a8-8ebf-a3ebbb4f7a5b",
@@ -447,11 +623,27 @@
             }
         },
         {
+            "Key": "e1d6b172-149a-4a98-8475-38c6aa300c1c",
+            "Value": {
+                "id": "1b578a0f-d91a-43a8-9eda-b449666860b0",
+                "resourcePath": "objects\\obj_enemy_oculo\\obj_enemy_oculo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e68dca5e-9375-4e10-956a-b235ef5dc74e",
             "Value": {
                 "id": "b237af7c-8063-4c17-8bee-9e96e299aac0",
                 "resourcePath": "views\\e68dca5e-9375-4e10-956a-b235ef5dc74e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ee5d4559-f496-47ee-8db4-6d9ba3f9d443",
+            "Value": {
+                "id": "0b2f3c90-8910-4e1d-a2e1-d52a9b1f8911",
+                "resourcePath": "sprites\\spr_werewolf_hurt\\spr_werewolf_hurt.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
