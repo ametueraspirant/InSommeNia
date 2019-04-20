@@ -71,14 +71,6 @@
             }
         },
         {
-            "Key": "1c748f01-fe48-4594-812b-bf902dcd91bc",
-            "Value": {
-                "id": "7220d8cc-e94f-42e1-ad9d-906a70d1c0eb",
-                "resourcePath": "sprites\\spr_player_walk_frontside\\spr_player_walk_frontside.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "22e3e40d-cc6c-42e4-a039-777f997a2388",
             "Value": {
                 "id": "1e912ddb-ff88-4651-a17a-994d4b08ee51",
@@ -191,6 +183,14 @@
             }
         },
         {
+            "Key": "665da59b-ceea-4640-8098-c966f7afd232",
+            "Value": {
+                "id": "162eaf93-ed13-414b-8d67-69d8875c1fec",
+                "resourcePath": "sprites\\spr_pillow\\spr_pillow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6b93e970-080d-45b9-935f-2791ca82003d",
             "Value": {
                 "id": "7cd0092f-5eb8-4831-a418-ff3925c5fe7e",
@@ -279,11 +279,11 @@
             }
         },
         {
-            "Key": "9920f488-29f6-44af-a443-da0c4e81ec12",
+            "Key": "8da2e490-db96-47cd-a826-18b5bd89e054",
             "Value": {
-                "id": "48f2615d-5bf5-4bac-8e80-a7aae2eb9586",
-                "resourcePath": "sprites\\spr_player_attack_frontside\\spr_player_attack_frontside.yy",
-                "resourceType": "GMSprite"
+                "id": "62a7e32c-a1b7-4c93-a056-283daff1b1d7",
+                "resourcePath": "notes\\Ideas.yy",
+                "resourceType": "GMNotes"
             }
         },
         {
@@ -319,14 +319,6 @@
             }
         },
         {
-            "Key": "a82b1b13-35c8-488d-bd1c-d6b88f13da5f",
-            "Value": {
-                "id": "9ad8af3c-ba63-4723-bf37-c9ec7ff565ff",
-                "resourcePath": "sprites\\spr_player_idle_backside\\spr_player_idle_backside.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "a833a17a-c92b-4640-b0b7-8741de551f37",
             "Value": {
                 "id": "0bf36e1c-d642-425f-84eb-f69794f1ef3d",
@@ -351,6 +343,14 @@
             }
         },
         {
+            "Key": "b28ad469-242d-4424-bc1d-ad3b0b6b9df0",
+            "Value": {
+                "id": "7b6704db-3fa1-4f71-b677-87a76cd66a4f",
+                "resourcePath": "notes\\Bugs.yy",
+                "resourceType": "GMNotes"
+            }
+        },
+        {
             "Key": "c04ceee7-5477-4bd0-b106-b7280ff7a4e4",
             "Value": {
                 "id": "776bb95b-2f0d-41a1-992c-0ea0236b45e3",
@@ -372,14 +372,6 @@
                 "id": "e9074f70-3b45-434a-9528-0e7a9850ae25",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
-            }
-        },
-        {
-            "Key": "cf2459b1-75ae-4e3c-aecb-8f715f7bb485",
-            "Value": {
-                "id": "f3d5f5f4-6b5b-44c1-a938-0eadc5d614c4",
-                "resourcePath": "sprites\\spr_player_idle_frontside\\spr_player_idle_frontside.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -431,14 +423,6 @@
             }
         },
         {
-            "Key": "e1bb5fef-9068-427e-b651-6101d696edb9",
-            "Value": {
-                "id": "0efc7913-0011-42bf-9407-352fe55bc8e9",
-                "resourcePath": "sprites\\spr_player_attack_backside\\spr_player_attack_backside.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "e68dca5e-9375-4e10-956a-b235ef5dc74e",
             "Value": {
                 "id": "b237af7c-8063-4c17-8bee-9e96e299aac0",
@@ -468,14 +452,6 @@
                 "id": "8c3bd88a-408a-449f-bad4-dd671eda873f",
                 "resourcePath": "views\\f5fc0cc3-b195-4933-9223-ec4ec37e1332.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "f61d7c85-df7c-4fce-8ceb-9e0f7eb45716",
-            "Value": {
-                "id": "11a691ef-33a5-4f6d-b1f2-95b51db89b7f",
-                "resourcePath": "sprites\\spr_player_walk_backside\\spr_player_walk_backside.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
