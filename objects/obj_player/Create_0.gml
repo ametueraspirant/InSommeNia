@@ -19,11 +19,12 @@ pillow_max = 4;
 pillow_damage = 2;
 pillow_windup = 5;
 pillow_windup_reset = 5;
-pillow_reload = 50;
+pillow_reload = 0;
 pillow_reload_reset = 50;
 hit_points = 5;
 attack_buffer = 0;
 
+decision = random(1);
 is_menu = false;
 is_debug = false;
 
