@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "960d8840-af95-4df6-88df-599b6f10125f",
+            "Value": {
+                "id": "2acd2044-1467-426f-b6d8-89741c246322",
+                "resourcePath": "views\\cf4c812f-238b-4858-8b3c-044c6c7bc2e6-room.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "9b10b54f-b3f9-433b-a119-7f4d1b25a549",
             "Value": {
                 "id": "79b13c2b-577e-4848-bfd3-e3d6fa4603d4",

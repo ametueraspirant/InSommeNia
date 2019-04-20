@@ -7,11 +7,7 @@ do_attack = global.attack;
 do_menu = global.menuButton;
 do_debug = global.debugButton;
 
-max_run_speed = 5;
-accel_var = 0.5;
-accel_base = 0.5;
-frict_var = 0.3;
-frict_base = 0.3;
+run_speed = 5;
 
 look_dir_h = 1;
 look_dir_v = 1;
@@ -19,9 +15,12 @@ x_speed = 0;
 y_speed = 0;
 
 pillow_count = 4;
+pillow_max = 4;
 pillow_damage = 2;
-pillow_windup = 0;
+pillow_windup = 5;
+pillow_windup_reset = 5;
 pillow_reload = 50;
+pillow_reload_reset = 50;
 hit_points = 5;
 attack_buffer = 0;
 
