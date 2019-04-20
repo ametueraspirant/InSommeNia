@@ -2,7 +2,7 @@
     "id": "7cb91d4c-4772-4780-b888-96f8308f3696",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "SprCrosshair",
+    "name": "spr_crosshair",
     "For3D": false,
     "HTile": false,
     "VTile": false,
