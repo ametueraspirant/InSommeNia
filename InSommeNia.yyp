@@ -631,6 +631,14 @@
             }
         },
         {
+            "Key": "d87d0323-e580-44d5-9cdf-0efddc239bd6",
+            "Value": {
+                "id": "c2cbd269-7a01-4559-9603-1f31961164c7",
+                "resourcePath": "scripts\\scr_fade_transition\\scr_fade_transition.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "dd0e21eb-0e33-4d84-930e-7cdd085caa90",
             "Value": {
                 "id": "fe6d8f16-2d21-4aed-8f65-8da1e730e4c0",
@@ -720,7 +728,7 @@
         }
     ],
     "script_order": [
-        
+        "d87d0323-e580-44d5-9cdf-0efddc239bd6"
     ],
     "tutorial": ""
 }
