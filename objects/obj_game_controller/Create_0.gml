@@ -10,3 +10,8 @@ global.menuButton = vk_escape;
 global.debugButton = vk_f3;
 
 randomise();
+
+if(room = Menu){
+	alpha = 1;
+	fade_in = 0;
+}

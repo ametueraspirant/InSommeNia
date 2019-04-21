@@ -24,6 +24,7 @@ if(attack_check_tap and attack_buffer < 10){
 #endregion
 
 #region //movement inputs
+if(is_control = true){
 input_h = right_check - left_check;
 input_v = down_check - up_check;
 if(input_h != 0 or input_v != 0){
@@ -34,6 +35,12 @@ if(input_h != 0 or input_v != 0){
 	y += movement_y;
 }
 run_speed = base_run_speed - pillow_count/4;
+} else {
+	right_check = false;
+	left_check = false;
+	up_check = false;
+	down_check = false;
+}
 #endregion
 
 #region //attack with pillow
