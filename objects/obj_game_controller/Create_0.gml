@@ -11,7 +11,12 @@ global.debugButton = vk_f3;
 
 randomise();
 
-if(room = Menu){
-	alpha = 1;
-	fade_in = 0;
+night_gui_w = display_get_gui_width();
+night_gui_h = display_get_gui_height();
+night_color = merge_color(c_black, c_blue, 0.15);
+
+enum controller{
+	idle,
+	walk,
+	attack,
 }

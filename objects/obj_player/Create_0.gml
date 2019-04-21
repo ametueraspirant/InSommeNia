@@ -7,13 +7,13 @@ do_attack = global.attack;
 do_menu = global.menuButton;
 do_debug = global.debugButton;
 
-run_speed = 5;
-base_run_speed = 5;
+run_speed = 4;
+base_run_speed = 4;
 
 look_dir_h = 1;
 look_dir_v = 1;
-x_speed = 0;
-y_speed = 0;
+movement_x = 0;
+movement_y = 0;
 
 pillow_count = 4;
 pillow_max = 4;
@@ -28,6 +28,6 @@ is_alive = true;
 is_control = true;
 
 decision = random(1);
-is_menu = false;
 is_debug = false;
 
+move_state = controller.idle;
