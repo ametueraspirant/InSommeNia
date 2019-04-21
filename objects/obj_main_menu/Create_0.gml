@@ -15,3 +15,10 @@ menu[1] = "Play";
 menu[0] = "Quit";
 menu_items = array_length_1d(menu);
 menu_cursor = 1;
+
+sleeper_state = bed_state.sleep;
+enum bed_state{
+	sleep,
+	wake,
+	up
+}

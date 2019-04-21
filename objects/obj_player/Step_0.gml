@@ -100,7 +100,7 @@ if(hit_points <= 0){
 	is_alive = false;
 	is_control =false;
 	audio_play_sound(player_death, 1, false);
-	scr_fade_transition(transition_mode.GOTO, Fail);
+	scr_fade_transition(transition_mode.GOTO, Menu);
 }
-if(menu_check)scr_fade_transition(transition_mode.GOTO, Fail);
+if(menu_check)scr_fade_transition(transition_mode.GOTO, Menu);
 if(debug_check)is_debug = !is_debug;

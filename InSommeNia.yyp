@@ -471,6 +471,14 @@
             }
         },
         {
+            "Key": "7c2635f8-4ebd-448e-9066-0114c6f66f6b",
+            "Value": {
+                "id": "6209001c-0a2d-4d9f-82cd-6b7c5f925910",
+                "resourcePath": "sprites\\player_cutscene_walk\\player_cutscene_walk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7cb86f8c-b639-4751-8890-c6e11a37a74a",
             "Value": {
                 "id": "35d1ed01-e154-4b9c-b913-a63a71288e98",
@@ -695,6 +703,14 @@
             }
         },
         {
+            "Key": "a6ad905f-1322-46f5-b773-4e707dfb6743",
+            "Value": {
+                "id": "9efd1112-e3b5-465a-a4c0-5ef28d0e5de4",
+                "resourcePath": "objects\\bed_room\\bed_room.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a833a17a-c92b-4640-b0b7-8741de551f37",
             "Value": {
                 "id": "0bf36e1c-d642-425f-84eb-f69794f1ef3d",
@@ -724,6 +740,14 @@
                 "id": "aec31f46-b526-45e2-a1e5-105f32ed62e5",
                 "resourcePath": "views\\acce5f6a-c26f-4e43-ba5a-7e995301792d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "af3e100e-94b9-416e-a664-d54c7a3aea67",
+            "Value": {
+                "id": "0b7e22e5-6b6e-4d47-b4d2-367585c95b22",
+                "resourcePath": "objects\\bed_spotlight\\bed_spotlight.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -812,6 +836,14 @@
                 "id": "d92ac513-d049-4680-92f2-8b1e89524b3c",
                 "resourcePath": "sounds\\pillow_woosh_2\\pillow_woosh_2.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "c314d306-b331-4b86-86f7-5b32d9210e26",
+            "Value": {
+                "id": "63bc401d-c791-49b2-902e-672755dbd8ac",
+                "resourcePath": "objects\\bed_idle\\bed_idle.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -975,6 +1007,14 @@
             }
         },
         {
+            "Key": "e0b64bba-3585-4355-9d57-b98f3ef01b6b",
+            "Value": {
+                "id": "9d3d0717-fddb-40d8-a713-a24dce9b591f",
+                "resourcePath": "views\\e0b64bba-3585-4355-9d57-b98f3ef01b6b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e0dcd1aa-7537-4a02-aba3-25b44b38a644",
             "Value": {
                 "id": "1dbec907-fe3a-4275-9258-956b204d16c2",
@@ -1004,6 +1044,14 @@
                 "id": "d86a9c28-c829-4f9a-8f41-05746e9b0c81",
                 "resourcePath": "sounds\\pillow_woosh_1\\pillow_woosh_1.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "e58ba0c1-b2fe-48bf-a80e-f526bc98d15a",
+            "Value": {
+                "id": "93c0d3d6-3f5f-482d-8a87-c644170e7f2f",
+                "resourcePath": "objects\\bed_empty\\bed_empty.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1076,6 +1124,14 @@
                 "id": "43eed1f1-4a35-49c4-994c-41152fa626a4",
                 "resourcePath": "sprites\\spr_city_terrain\\spr_city_terrain.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fa126cc5-aad7-4662-8563-a0faa1c1e530",
+            "Value": {
+                "id": "e561f1bd-9b57-48dd-9976-40cbc0c70289",
+                "resourcePath": "objects\\cutscene_player\\cutscene_player.yy",
+                "resourceType": "GMObject"
             }
         },
         {
