@@ -8,6 +8,7 @@ do_menu = global.menuButton;
 do_debug = global.debugButton;
 
 run_speed = 5;
+base_run_speed = 5;
 
 look_dir_h = 1;
 look_dir_v = 1;
@@ -16,13 +17,14 @@ y_speed = 0;
 
 pillow_count = 4;
 pillow_max = 4;
-pillow_damage = 2;
 pillow_windup = 5;
 pillow_windup_reset = 5;
 pillow_reload = 0;
 pillow_reload_reset = 50;
 hit_points = 5;
 attack_buffer = 0;
+is_hurt = false;
+is_alive = true;
 
 decision = random(1);
 is_menu = false;

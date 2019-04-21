@@ -7,7 +7,8 @@
         "d4f44326-f867-44c0-b0cf-ee136506f39b",
         "9fafb347-66d4-45e8-9c6d-ef7e1b801427",
         "2c72390d-8c5d-4b5c-b4de-6f6966121ce7",
-        "bc47e068-1960-4e27-87eb-6346b56d876a"
+        "bc47e068-1960-4e27-87eb-6346b56d876a",
+        "8688a6ed-7eb1-4cb0-82b0-33f8758b594b"
     ],
     "filterType": "GMObject",
     "folderName": "System",

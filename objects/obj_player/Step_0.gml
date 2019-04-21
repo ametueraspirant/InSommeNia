@@ -33,6 +33,7 @@ if(input_h != 0 or input_v != 0){
 	x += movement_x;
 	y += movement_y;
 }
+run_speed = base_run_speed - pillow_count/4;
 #endregion
 
 #region //attack with pillow
@@ -51,6 +52,8 @@ if(attack_check and pillow_reload <= 0 and attack_buffer >= 0 and pillow_count >
 	}
 }
 #endregion
+
+
 
 //extra buttons
 if(menu_check)is_menu = !is_menu;

@@ -1,5 +1,5 @@
 /// @description collide with an enemy
 with(other){
-	hp--;
-	flash = 5;
+	hit_points--;
+	flash = 1;
 }

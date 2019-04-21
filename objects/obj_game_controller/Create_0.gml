@@ -11,3 +11,5 @@ global.debugButton = vk_f3;
 
 randomise();
 
+global.gotoLevel = room_goto(Level);
+global.gotoMenu = room_goto(Menu);
