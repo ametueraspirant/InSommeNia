@@ -25,6 +25,7 @@ hit_points = 5;
 attack_buffer = 0;
 is_hurt = false;
 is_alive = true;
+is_control = true;
 
 decision = random(1);
 is_menu = false;
