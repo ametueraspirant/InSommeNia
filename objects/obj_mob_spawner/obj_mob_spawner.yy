@@ -1,28 +1,28 @@
 {
-    "id": "d4f44326-f867-44c0-b0cf-ee136506f39b",
+    "id": "31ed4cec-e1a5-4969-905c-f5ed00285d3e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_game_controller",
+    "name": "obj_mob_spawner",
     "eventList": [
         {
-            "id": "ae6cd8de-9aa8-45e4-8331-96cc2e5b9d56",
+            "id": "52a62ed4-213c-4c00-a2a1-e77c15c0da9e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "31ed4cec-e1a5-4969-905c-f5ed00285d3e"
+        },
+        {
+            "id": "013442f4-5374-4fd6-b76e-60f95ce9c819",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "d4f44326-f867-44c0-b0cf-ee136506f39b"
-        },
-        {
-            "id": "5892142f-1025-4693-9804-1db869e6615a",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 64,
-            "eventtype": 8,
-            "m_owner": "d4f44326-f867-44c0-b0cf-ee136506f39b"
+            "m_owner": "31ed4cec-e1a5-4969-905c-f5ed00285d3e"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
