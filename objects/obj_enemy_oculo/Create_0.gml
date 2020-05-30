@@ -10,7 +10,6 @@ flash = 0;
 
 look_dir = 1;
 x_speed = 0;
-y_speed = 0;
 
 bite_cooldown = 0;
 bite_cooldown_reset = 300;

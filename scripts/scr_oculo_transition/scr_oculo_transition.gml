@@ -1,6 +1,7 @@
 switch(argument0){
 	case controller.idle:
 	
+	oculo_control = true;
 	sprite_index = spr_oculo_idle;
 	oculo_attack = false;
 	mob_state = controller.idle;
@@ -14,6 +15,7 @@ switch(argument0){
 	
 	case controller.attack:
 	
+	oculo_control = false;
 	sprite_index = spr_oculo_attack;
 	mask_index = spr_oculo_attack_hb;
 	image_index = 0;
